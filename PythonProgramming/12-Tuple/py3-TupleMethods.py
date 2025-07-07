@@ -1,6 +1,0 @@
-t1=(10,'Raj',12.23,"mumbai")
-n=len(t1)
-num = (84,23,47,65,45,12,78)
-s=sorted(num)
-print(n)
-print(s)
