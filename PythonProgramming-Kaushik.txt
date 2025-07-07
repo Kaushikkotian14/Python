@@ -1,0 +1,35 @@
+                                            Python Training-Index
+Lear from others experience 
+Day1: 16/06/2025
+  1.Languages & Packages
+  2. Roles & Responsiblities
+  3.Good programmer always good listener
+  4.Client requirements 
+  5.3 tire architecture(UI, MiddleWare, Database)
+  6.Python Programming
+  7.Variables
+  8.Datatypes
+  9.Conditional Statements
+ 10.Operators
+ 11.Conditions
+
+Day2: 17/06/2025
+1.Revision of Day1
+2.Nested Loops
+3.Functions
+4.Membership Operators
+5.Arrays
+6.Modules
+7.Strings
+8.Tuple
+9.List
+10.Dictionary
+
+Day3: 18/06/2025
+1.Exceptions
+2.OOPS
+3.Files
+4.MySql Integration with python
+5.Date and Time
+6.Task-1: CURD operations with python with mysql using switch case
+    

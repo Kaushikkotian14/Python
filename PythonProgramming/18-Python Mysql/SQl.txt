@@ -1,0 +1,9 @@
+Python MySql on terminal :
+1.pip install mysql-connector python
+
+2.Enter name:root
+  Enter password:root
+
+ 3. create database godigitaldb1
+ 4.use godigitaldb1
+
